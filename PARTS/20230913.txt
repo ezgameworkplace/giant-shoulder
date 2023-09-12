@@ -1,0 +1,6 @@
+PlanNote
+something to write about
+1.迭代器
+2.闭包
+3.析构函数
+4.装饰器
