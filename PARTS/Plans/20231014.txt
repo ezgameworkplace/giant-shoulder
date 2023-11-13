@@ -1,0 +1,9 @@
+something to know
+-NGUI -http://www.tasharen.com/?page_id=140
+-Computer Networks [Jim Kurose]-https://www.youtube.com/watch?v=abeupgK5z48&list=PL1ya5dD_M8uX-BLUF1FEvUNsYWQL5_l0O&index=11
+-C# LINQ - How to make a Query -https://www.tutorialsteacher.com/linq/linq-query-syntax
+
+-git - How to pull from remote NOT effecting the local changes:
+git stash
+git pull
+git stash pop

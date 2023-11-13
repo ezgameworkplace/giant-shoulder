@@ -12,5 +12,7 @@ PARTS打卡池
 巨人堂 
 </p>
 
-##### 霜神 于德志 https://github.com/halfrost
-##### 左耳朵耗子 陈皓 https://github.com/haoel
+
+##### 【ByteByteGo】Alex Xu & Sahn Lam - https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw
+##### 霜神 于德志 - https://github.com/halfrost
+##### 左耳朵耗子 陈皓 - https://github.com/haoel
