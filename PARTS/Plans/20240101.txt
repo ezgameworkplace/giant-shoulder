@@ -1,0 +1,17 @@
+VUE+Electron+TS+Unity
+
+Must know:
+1. How to use html and CSS
+2. How to use javascript
+3. How to use VUE
+4. How to use Electron+TS
+
+HTML:
+- html是用来给browser布局的，它是一种标记语言，用来描述网页的结构和语义
+- Tags：tag是html的语法，有<ElementName></ElementName>，在angle brackets中就是元素的名字，这是由语法默认的，查看所有的元素名参考：https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+- 元素：每个元素类似封装好的函数，既然是函数就可以有参数，在html里，我们叫这些参数为attributes，比如：`<img src=".png" alt="Google">`，这里的src和alt就是img元素的attributes，这些属性就是用于描述不同的函数行为
+- 特殊的元素：<h1></h1> 最好只有一个，因为会影响到google搜索的优先级，超过1个h1的google会排除搜索：https://www.zhihu.com/question/20990499
+- attributes属性：除了每个元素自有的属性外，还有一些全局的属性，比如class和id属性用来标识元素， html的class属性不是OOP中的class，<div class="name1 name2 name3"></div>,而是CSS的选择器，用来查找html中的指定元素，比如在css中 .name1{} .name2{} .name3{}都可以操作上述的div元素， class类似一个包含选择器命名的字符串列表用空格分割。 id属性则是唯一的，只能用于一个元素，比如<div id="name1"></div>，在css中可以用#name1{}来操作这个div元素
+
+VUE:
+- VUE补充了一些HTML属性，比如ref属性，用于在js中获取html元素，比如`<div ref="name1"></div>`，在js中可以通过this.$refs.name1来获取这个div元素
