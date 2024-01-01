@@ -15,3 +15,4 @@ HTML:
 
 VUE:
 - VUE补充了一些HTML属性，比如ref属性，用于在js中获取html元素，比如`<div ref="name1"></div>`，在js中可以通过this.$refs.name1来获取这个div元素
+- ref跟class不同，class更常用于修改css，ref更常用于获取html元素，当然class也可以通过document的选择器来获取元素，比如document.querySelector(".name1")，但是这样的话，当html中的class改变时，js中的class也要改变，而ref则不会，ref更适合用于获取html元素
