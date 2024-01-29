@@ -1,0 +1,16 @@
+something to learn
+
+js syntax : https://www.youtube.com/watch?v=8dWL3wF_OMw
+
+1.声明
+2.变量
+3.输入输出
+4.控制语句
+5.循环语句
+6.数据结构
+7.线程管理
+8.事件
+9.案例
+
+Notes:
+1.当使用var在声明全局变量时，会修改window的属性，避免这种情况应该使用let
